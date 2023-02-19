@@ -13,10 +13,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=victorhugobarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center"> 
-<a href="https://www.youtube.com/@1234Smile" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href = "mailto:victorhugobarbosa10000@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+E-mail: victorhugobarbosa10000@gmail.com
  
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
