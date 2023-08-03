@@ -5,7 +5,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorhugobarbosa&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117100" alt="Victor Hugo Barbosa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugobarbosa&layout=compact&hide_border=true&title_color=4169E1&text_color=6A5ACD&bg_color=0d1117100" />
-</div>
+</div> <br>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=victorhugobarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
