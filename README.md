@@ -25,4 +25,9 @@
 - Back-end: Node.js, Express.js, ASP.NET Core
 - Databases: MySQL, Firebase
 
+## Social networks 😄
+<p align="center">
+  <a href="https://www.youtube.com/@01VictorHugoBarbosaDosSantos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</p>
+
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
