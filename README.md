@@ -23,10 +23,5 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <br><br>
-
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorhugobarbosa}/count.svg" /></p> 
-<br>
-</div>
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
