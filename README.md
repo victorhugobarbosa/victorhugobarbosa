@@ -9,7 +9,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorhugobarbosa&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117100" alt="Victor Hugo Barbosa github stats" /> 
 </p>
 
-## Languages ​​I use most
+## Languages ​​I use most 💻
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=victorhugobarbosa&theme=tokyonight)
@@ -18,7 +18,7 @@
 ## About me 👨‍🎓
   A developing programmer, 2nd year student at the Technical College of Campinas - UNICAMP. 17 years old and a lover of technology and games, learning a little more every day
  
-## Knowledge 👨🏻‍💻
+## Knowledge 🤓
 
 - Programming Languages: C#, JavaScript, Java, C, Kotlin, C++ 
 - Front-end: HTML5, CSS3, React
