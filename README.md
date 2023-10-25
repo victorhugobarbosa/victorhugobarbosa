@@ -19,7 +19,7 @@
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=victorhugobarbosa&theme=tokyonight)
 </div>
 
-## Stats
+## Stats ⭐
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=victorhugobarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
