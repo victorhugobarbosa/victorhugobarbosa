@@ -19,7 +19,7 @@
 - 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++ 
 - 🌌 Front-end: HTML5, CSS3, React
 - 🚀 Back-end: Node.js, Express.js, ASP.NET Core
-- 🌐 Databases: MySQL, Firebase
+- 🌐 Databases: SQLServer, Firebase
 
 ## Social networks 😄
 <p align="center">
