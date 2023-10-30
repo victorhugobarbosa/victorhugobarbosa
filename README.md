@@ -16,13 +16,13 @@
  
 ## Knowledge 👾
 
-- 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++ 
+- 🌱 Programming Languages: C#, JavaScript, Java, C, 
 - 🌌 Front-end: HTML5, CSS3, React
 - 🚀 Back-end: Node.js, Express.js, ASP.NET Core
 - 🌐 Databases: SQLServer, Firebase
 
-- ## Studying 🤓
-- 🐱‍🚀 MySql, MongoDB, Lua
+## Studying 🤓
+- 🐱‍🚀 Kotlin, C++, MySql, MongoDB, Lua
 
 ## Social networks 😄
 <p align="center">
