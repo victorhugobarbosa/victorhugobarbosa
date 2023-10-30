@@ -14,7 +14,7 @@
 ## About me 👨‍🎓
   💻 A developing programmer, 2nd year student at the Technical College of Campinas - UNICAMP. 17 years old and a lover of technology and games, learning a little more every day
  
-## Knowledge 👨‍🎓
+## Knowledge 👾
 
 - 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++ 
 - 🌌 Front-end: HTML5, CSS3, React
