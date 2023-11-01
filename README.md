@@ -20,9 +20,10 @@
 - 🌌 Front-end: HTML5, CSS3, React
 - 🚀 Back-end: Node.js, Express.js, ASP.NET Core
 - 🌐 Databases: SQLServer, Firebase
+- ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio
 
 ## Studying 🤓
-- 🐱‍🚀 Kotlin, C++, MySql, MongoDB, Lua
+- 🐱‍🚀 Kotlin, C++, Code::Blocks
 
 ## Social networks 😄
 <p align="center">
