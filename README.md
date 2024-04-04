@@ -12,7 +12,7 @@
 </div>
 
 ## About me 👨‍🎓
-  💻 A developing programmer, 2nd year student at the Technical College of Campinas - UNICAMP. 17 years old and a lover of technology, learning a little more every day
+  💻 A developing programmer, 3nd year student at the Technical College of Campinas - UNICAMP. 17 years old and a lover of technology, learning a little more every day
  
 ## Knowledge 👾
 
@@ -23,7 +23,7 @@
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio
 
 ## Studying 🤓
-- 🐱‍🚀 Python, IA
+- 🐱‍🚀 Python & IA, IOs
 
 ## Social networks 😄
 <p align="center">
