@@ -21,9 +21,15 @@
 - 🚀 Back-end: Node.js, Express.js, ASP.NET Core
 - 🌐 Databases: SQLServer, Firebase
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,cs,arduino,swift,react,java,nodejs,python,unreal,kotlin,unity" />
+  </a>
+</p>
 
 ## Studying 🤓
-- 🐱‍🚀 Python & IA, IOs
+- 🐱‍🚀 Python & IA, IOs, Unreal Engine 5
 
 ## Social networks 😄
 <p align="center">
