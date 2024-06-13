@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=20&center=true&vCenter=true&width=1000&lines=Hello+World!;)](https://git.io/typing-svg)
-<br>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=victorhugobarbosa&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p> <br>
@@ -18,7 +15,7 @@
 </p>
 
 ## About me 👨‍🎓
-  💻 A developing programmer, 3nd year student at the Technical College of Campinas - UNICAMP. 17 years old and a lover of technology, learning a little more every day
+  💻 3rd year student at Colégio Técnico de Campinas - UNICAMP. 18yo and a lover of technology and games, learning a little more every day
  
 ## Knowledge 👾
 
