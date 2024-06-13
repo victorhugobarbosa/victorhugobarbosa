@@ -15,7 +15,7 @@
 </p>
 
 ## About me 👨‍🎓
-  💻 3rd year student at Colégio Técnico de Campinas - UNICAMP. 18yo and a lover of technology and games, learning a little more every day
+  💻 3rd year student at Technical High School of Unicamp - Campinas. 18yo and a lover of technology and games, learning a little more every day
  
 ## Knowledge 👾
 
