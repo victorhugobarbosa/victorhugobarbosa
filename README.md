@@ -26,7 +26,7 @@
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio
 
 ## Studying 🤓
-- 🐱‍🚀 Python & IA, IOs, Unreal Engine 5, Unity
+- 🐱‍🚀 Python & IA, Unreal Engine 5, Unity
 
 ## Social networks 😄
 <p align="center">
