@@ -28,7 +28,7 @@
 ## Studying 🤓
 - 🐱‍🚀 Python & IA, Unreal Engine 5, Unity
 
-## Social networks 😄
+## Social medias 😄
 <p align="center">
   <a href="https://www.youtube.com/@01VictorHugoBarbosaDosSantos" target="_blank"><img alt="Victor-YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/0victorh_barbosa/?next=%2F" target="_blank"><img alt="Victor-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
