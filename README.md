@@ -19,14 +19,14 @@
  
 ## Knowledge 👾
 
-- 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++
+- 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++, Python
 - 🌌 Front-end: HTML5, CSS3, React
 - 🚀 Back-end: Node.js, Express.js, ASP.NET Core
 - 🌐 Databases: SQLServer, Firebase
-- ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio
+- ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio, Unreal Engine 5, Unity
 
 ## Studying 🤓
-- 🐱‍🚀 Python & IA, Unreal Engine 5, Unity
+- Oracle APEX
 
 ## Social medias 😄
 <p align="center">
