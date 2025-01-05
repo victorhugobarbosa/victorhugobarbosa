@@ -26,7 +26,7 @@
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio, Unreal Engine 5, Unity
 
 ## Studying 🤓
-- Oracle APEX
+- Oracle APEX, PHP
 
 ## Social medias 😄
 <p align="center">
