@@ -15,7 +15,7 @@
 </p>
 
 ## About me 👨‍🎓
-  💻 3rd year student at Technical High School of Unicamp - Campinas. 18yo and a lover of technology and games, learning a little more every day
+  💻 First-year Computer Science student at UNIP. Completed a technical course at the Technical High School of Unicamp - Campinas. 18 years old, technology and gaming enthusiast, always learning something new every day.
  
 ## Knowledge 👾
 
