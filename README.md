@@ -14,7 +14,7 @@
 ## About me 👨‍🎓
   💻 First-year Computer Science student at UNIP. Completed a technical course at the Technical High School of Campinas - Unicamp (Cotuca). 19 years old, technology and gaming enthusiast, always learning something new.
 
-## Experience
+## Experience 👔
 - ⚡🚀 Working at <a href="https://dynamicslabs.com.br" target="_blank"> Dynamics Labs </a>
 
 ## Knowledge 👾
