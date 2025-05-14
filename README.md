@@ -12,7 +12,7 @@
 </p>
 
 ## About me 👨‍🎓
-  💻 First-year Computer Science student at UNIP. Completed a technical course at the Technical High School of Campinas - Unicamp (Cotuca). 18 years old, technology and gaming enthusiast, always learning something new.
+  💻 First-year Computer Science student at UNIP. Completed a technical course at the Technical High School of Campinas - Unicamp (Cotuca). 19 years old, technology and gaming enthusiast, always learning something new.
  
 ## Knowledge 👾
 
