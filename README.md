@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+<div align="center">
+    <h1>Welcome! I'm Victor Hugo😁</h1>    
+</div>
 
 <div align="center">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=victorhugobarbosa&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=6A5ACD&text_color=4169E1&bg_color=0d1117" alt="Victor Hugo Barbosa github stats" /> 
@@ -26,7 +29,7 @@
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio, Unreal Engine 5, Unity
 
 ## Studying 🤓
-- Oracle APEX, IA
+- Automation & IA
 
 ## Social medias 😄
 <p align="center">
