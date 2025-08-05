@@ -24,8 +24,8 @@
 
 - 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++, Python
 - 🌌 Front-end: HTML5, CSS3, React
-- 🚀 Back-end: Node.js, Express.js, ASP.NET Core
-- 🌐 Databases: MySQL, SQLServer, Firebase
+- 🚀 Back-end: Node.js, Express.js, ASP.NET, Flask
+- 🌐 Databases: MySQL, SQLServer, Firebase, Supabase
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio, Unreal Engine 5, Unity
 
 ## Studying 🤓
