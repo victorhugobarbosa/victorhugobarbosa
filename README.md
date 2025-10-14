@@ -22,9 +22,9 @@
 
 ## Knowledge 👾
 
-- 🌱 Programming Languages: C#, JavaScript, Java, C, Kotlin, C++, Python
+- 🌱 Programming Languages: C#, JavaScript, Java, Kotlin, C++, Python
 - 🌌 Front-end: HTML5, CSS3, React
-- 🚀 Back-end: Node.js, Express.js, ASP.NET, Flask
+- 🚀 Back-end: Node.js, Express.js, ASP.NET, Flask, FastAPI
 - 🌐 Databases: MySQL, SQLServer, Firebase, Supabase
 - ✏ IDEs: VisualStudio, VSCode, IntelliJ, AndroidStudio, Unreal Engine 5, Unity
 
